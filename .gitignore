@@ -1,7 +1,7 @@
+.env
 /bin/
 /lib/
 pyvenv.cfg
 /venv/
 .vscode
 outputs*
-.env
