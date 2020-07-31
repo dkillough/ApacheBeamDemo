@@ -13,13 +13,6 @@ pip install apache-beam
 pip install 'apache-beam[gcp]' 
 ```
 
-```sh
-export PROJECT="wordcountbeamproj"
-export BUCKET="pipeline-demo-storage"
-export REGION="us-east1"
-```
-
-
 ### run this w
 
 `python wordcount.py --output outputs`
