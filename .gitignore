@@ -5,3 +5,5 @@ pyvenv.cfg
 /venv/
 .vscode
 outputs*
+/Sorting Testing (Java)/main.class
+/Sorting Testing (Java)/wordCount.class
