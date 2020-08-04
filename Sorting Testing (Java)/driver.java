@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main {
+public class driver {
     public static void main(String[] args) {
         ArrayList<wordCount> wc = new ArrayList<>();
 
